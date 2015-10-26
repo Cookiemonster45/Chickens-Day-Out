@@ -1,0 +1,330 @@
+	Babylon.js Exporter version: 1.8.0, Blender version: 2.73 (sub 6)
+========= Conversion from Blender to Babylon.js =========
+	Python World class constructor completed
+	processing begun of material:  Character.Material.001
+	processing begun of material:  Character.Material.002
+	processing begun of skeleton:  Armature, id:  0
+	processing begun of bone:  Bone, index:  0
+	animation begun of bone:  Bone
+	processing begun of bone:  Bone.001, index:  1
+	animation begun of bone:  Bone.001
+	processing begun of bone:  Bone.002, index:  2
+	animation begun of bone:  Bone.002
+	processing begun of bone:  Bone.003, index:  3
+	animation begun of bone:  Bone.003
+	processing begun of bone:  Bone.004, index:  4
+	animation begun of bone:  Bone.004
+	processing begun of bone:  Bone.005, index:  5
+	animation begun of bone:  Bone.005
+	processing begun of bone:  Bone.008, index:  6
+	animation begun of bone:  Bone.008
+	processing begun of bone:  Bone.009, index:  7
+	animation begun of bone:  Bone.009
+	processing begun of bone:  Bone.010, index:  8
+	animation begun of bone:  Bone.010
+	processing begun of bone:  Bone.006, index:  9
+	animation begun of bone:  Bone.006
+	processing begun of bone:  Bone.007, index:  10
+	animation begun of bone:  Bone.007
+	processing begun of bone:  Bone.011, index:  11
+	animation begun of bone:  Bone.011
+	processing begun of bone:  Bone.012, index:  12
+	animation begun of bone:  Bone.012
+	processing complete of skeleton:  Armature
+	processing begun of mesh:  Chicken
+		processing begun of multimaterial:  Character.Multimaterial#0
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		WARNING: Maximum # of influencers exceeded for a vertex, extras ignored
+		num positions      :  1422
+		num normals        :  1422
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1422
+		num skeletonWeights:  5688
+		num skeletonIndices:  5688
+	processing begun of camera (FreeCamera):  Camera
+	processing begun of light (POINT):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========

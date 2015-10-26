@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>Chicken's Day Out</title>
+    <title>Platformer Test</title>
 
     <!--3d engine-->
     <script src="http://cdn.babylonjs.com/2-2/babylon.js"></script>

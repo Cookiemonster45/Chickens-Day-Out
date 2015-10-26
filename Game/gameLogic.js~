@@ -32,7 +32,7 @@ A3D.config = {
             start : 1,
             end : 39,
             options : {
-              ratio: 2
+              ratio: 1.4
             }
           },
           {
