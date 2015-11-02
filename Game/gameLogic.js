@@ -64,8 +64,8 @@ A3D.config = {
           }
         ],
         rotationValues : {
-          left : 3,
-          right : 0
+          left : 1,
+          right : 1.9
         },
 
         scale : {
@@ -76,7 +76,7 @@ A3D.config = {
         boundsOffset : {
           z : -2,
           x : -2,
-          y: 10
+          y: 11
         }
 
       },
