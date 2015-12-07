@@ -1,0 +1,26 @@
+	Babylon.js Exporter version: 1.8.0, Blender version: 2.76 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Python World class constructor completed
+	processing begun of material:  Enemy.Material
+	WARNING texture type not currently supported:  NONE, ignored.
+	processing begun of material:  Enemy.Material.001
+	processing begun of skeleton:  Armature, id:  0
+	processing begun of bone:  Bone, index:  0
+	animation begun of bone:  Bone
+	processing complete of skeleton:  Armature
+	processing begun of mesh:  Enemy
+		processing begun of multimaterial:  Enemy.Multimaterial#0
+		num positions      :  636
+		num normals        :  636
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  636
+		num skeletonWeights:  2544
+		num skeletonIndices:  2544
+		WARNING: # of 0 area faces found:  12
+	processing begun of camera (FreeCamera):  Camera
+	processing begun of light (POINT):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========

@@ -11,7 +11,7 @@ A3D.config = {
     }
   },
 
-      lives: 10,
+      lives: 5,
       speed : 1,
       jumpButton : 32,
       leftButton : 65,
@@ -89,13 +89,13 @@ A3D.config = {
       },
       cameraSettings : {
         offset : {
-          x : 30,
+          x : 0,
           y : 20,
-          z : -40
+          z : -60
         },
         rotation : {
           x: .3,
-          y: -.3,
+          y: -.0,
           z: 0
         }
       }
