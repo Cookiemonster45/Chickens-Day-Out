@@ -80,6 +80,21 @@ A3D.config = {
         }
 
       },
+      endTrigger : 'Trigger.End',
+      screenImages : [
+        {
+          src:'/images/start.png',
+          id: 'mainScreen'
+        },
+        {
+          src:'/images/win.png',
+          id: 'winScreen'
+        },
+        {
+          src:'/images/lose.png',
+          id: 'loseScreen'
+        }
+      ],
       livesImage : {
         src : '/images/heart.png',
         dX:0,
